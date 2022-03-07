@@ -1,0 +1,6 @@
+ NonaCept Games Library
+========================
+*0.1.2a: (primeira versão utilizável)
+    +MenuItem;
+    +MenuBar;
+    +Themes(CTG_Theme);
